@@ -16,5 +16,11 @@
         "subtitle":"ແມ່ນພາສາທີ່ໃຊ້ພັດທະນາ Applications, ພັດທະນາໂດຍ Google",
         "image_url":"https://cdn.pixabay.com/photo/2017/06/26/08/13/workspace-2443050_960_720.jpg",
         "detail":"Dart is a programming language designed for client development,\n\n such as for the web and mobile apps. It is developed by Google and can\n\n also be used to build server and desktop applications.It is an object-oriented,\n\n class-based, garbage-collected language with C-style syntax.[10] It can\n\n compile to either machine code or JavaScript, and supports interfaces,\n\n mixins, abstract classes, reified generics and type inference.[4]"
+    },
+    {
+        "title":"Dart Programming2",
+        "subtitle":"ແມ່ນພາສາທີ່ໃຊ້ພັດທະນາ Applications, ພັດທະນາໂດຍ Google",
+        "image_url":"https://cdn.pixabay.com/photo/2017/06/26/08/13/workspace-2443050_960_720.jpg",
+        "detail":"Dart is a programming language designed for client development,\n\n such as for the web and mobile apps. It is developed by Google and can\n\n also be used to build server and desktop applications.It is an object-oriented,\n\n class-based, garbage-collected language with C-style syntax.[10] It can\n\n compile to either machine code or JavaScript, and supports interfaces,\n\n mixins, abstract classes, reified generics and type inference.[4]"
     }
 ]
