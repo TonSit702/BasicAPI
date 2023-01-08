@@ -2,19 +2,19 @@
     {
         "title":"ຄອມພິວເຕີແມ່ນຫຍັງ?",
         "subtitle":"ຄອມພິວເຕີແມ່ນອຸປະກອນທີ່ໃຊ້ຄິດໄລ່ຄໍານວນ ແລະ ວຽກງານອື່ນໆໄດ້",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/22/21/26/notebook-1850613_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/TonSit702/BasicAPI/main/computer.jpg",
         "detail":"A computer is a machine that can be programmed to carry out sequences \n\nof arithmetic or logical operations (computation) automatically.\n\n Modern digital electronic computers can perform generic sets of operations\n\n known as programs. These programs enable computers to perform a wide \n\nrange of tasks. A computer system is a nominally complete computer \n\nthat includes the hardware, operating system (main software), and \n\nperipheral equipment needed and used for full operation. This term may\n\n also refer to a group of computers that are linked and function together,\n\n such as a computer network or computer cluster."
     },
     {
         "title":"What is Flutter?",
         "subtitle":"ແມ່ນ Framework ທີ່ໃຊ້ພັດທະນາແອບໄດ້ທຸກ platform",
-        "image_url":"https://cdn.pixabay.com/photo/2017/08/10/08/47/laptop-2620118_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/TonSit702/BasicAPI/main/flutter.jpg",
         "detail":"Flutter is an open-source UI software development kit created by Google.\n\n It is used to develop cross-platform applications for Android, iOS,\n\n Linux, macOS, Windows, Google Fuchsia,[4] and the web from a single codebase.\n\n First described in 2015,[6][7] Flutter was released in May 2017.[1]"
     },
     {
         "title":"Dart Programming",
         "subtitle":"ແມ່ນພາສາທີ່ໃຊ້ພັດທະນາ Applications, ພັດທະນາໂດຍ Google",
-        "image_url":"https://cdn.pixabay.com/photo/2017/06/26/08/13/workspace-2443050_960_720.jpg",
+        "image_url":"https://raw.githubusercontent.com/TonSit702/BasicAPI/main/dart_programming.jpg",
         "detail":"Dart is a programming language designed for client development,\n\n such as for the web and mobile apps. It is developed by Google and can\n\n also be used to build server and desktop applications.It is an object-oriented,\n\n class-based, garbage-collected language with C-style syntax.[10] It can\n\n compile to either machine code or JavaScript, and supports interfaces,\n\n mixins, abstract classes, reified generics and type inference.[4]"
     }
 ]
